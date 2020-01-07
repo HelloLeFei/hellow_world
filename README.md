@@ -6,3 +6,4 @@ test git
    ## 1
    connect1
    connect2
+   connect3
